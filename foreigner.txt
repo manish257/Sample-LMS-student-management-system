@@ -1,0 +1,1 @@
+{192: ['Nepal', 'uet', 'Manish', 'EE', 'D', 192], 193: ['Nepal', 'uet', 'Rm Pujan', 'EE', 'D', 193], 165: ['Pakistan', 'uet', 'Rashid Ali', 'EE', 'D', 165]}
